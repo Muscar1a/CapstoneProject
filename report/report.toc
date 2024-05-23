@@ -1,0 +1,49 @@
+\contentsline {paragraph}{}{1}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {chapter}{\Large 1. Introduction}{3}{}%
+\contentsline {chapter}{\Large 2. Dataset}{4}{}%
+\contentsline {section}{\Large 2.1. Dataset description}{4}{}%
+\contentsline {section}{\large 2.2. Data Analysis and Preprocessing}{6}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {chapter}{\Large 3. Proposed models}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {paragraph}{}{9}{}%
+\contentsline {paragraph}{}{9}{}%
+\contentsline {paragraph}{}{10}{}%
+\contentsline {section}{\large 3.1. Bernoulli Naive Bayes}{10}{}%
+\contentsline {paragraph}{}{10}{}%
+\contentsline {paragraph}{}{10}{}%
+\contentsline {paragraph}{}{10}{}%
+\contentsline {paragraph}{}{11}{}%
+\contentsline {paragraph}{}{11}{}%
+\contentsline {paragraph}{}{11}{}%
+\contentsline {paragraph}{}{12}{}%
+\contentsline {paragraph}{}{12}{}%
+\contentsline {section}{\large 3.2. Support Vector Machine}{12}{}%
+\contentsline {section}{\large 3.3. Decision Tree and Random Forest}{12}{}%
+\contentsline {paragraph}{}{12}{}%
+\contentsline {paragraph}{}{13}{}%
+\contentsline {subsection}{\normalsize 3.3.1. Decision Tree}{13}{}%
+\contentsline {paragraph}{}{13}{}%
+\contentsline {paragraph}{}{14}{}%
+\contentsline {subsection}{\normalsize 3.3.2. Random Forest Classifier}{14}{}%
+\contentsline {paragraph}{}{14}{}%
+\contentsline {paragraph}{}{15}{}%
+\contentsline {paragraph}{}{17}{}%
+\contentsline {section}{\large 3.4. K-nearest Neighbor}{18}{}%
+\contentsline {paragraph}{}{18}{}%
+\contentsline {section}{\large 3.5. Logistic Regression}{19}{}%
+\contentsline {section}{\large 3.6. XGBoost}{19}{}%
+\contentsline {paragraph}{}{19}{}%
+\contentsline {paragraph}{}{20}{}%
+\contentsline {paragraph}{}{20}{}%
+\contentsline {chapter}{\Large 4. Results}{20}{}%
+\contentsline {paragraph}{}{21}{}%
+\contentsline {section}{\large 4.1. Evaluation metrics}{21}{}%
+\contentsline {paragraph}{}{22}{}%
+\contentsline {section}{\large 4.2. Compare results}{22}{}%
+\contentsline {chapter}{\Large 5. Conclusions}{23}{}%
+\contentsline {chapter}{\Large REFERENCES}{24}{}%
