@@ -3,7 +3,7 @@ This is Capstone Project for Machine Learning couse semester 20232 by group 6.
 
 **Please refer to our full report for a detailed description.**
 
-**To test our code, do the following instruction:**
+**To check our code, do the following instructions:**
 
 1. Install all required packages that are listed in requirements.txt.
 
